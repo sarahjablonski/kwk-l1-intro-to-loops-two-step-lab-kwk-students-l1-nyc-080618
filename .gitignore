@@ -1,1 +1,3 @@
-.DS_Store
+items = {}
+items["24k Magic Cd"] = 15.98
+puts items
